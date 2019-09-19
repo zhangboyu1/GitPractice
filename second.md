@@ -1,2 +1,2 @@
-Second file created in the local Repo.. (second file)
+Second file changed first time on Master (second file)
 
